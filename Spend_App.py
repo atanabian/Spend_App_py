@@ -35,6 +35,3 @@ elif args['--delete'] :
     category = args['<category>']
 
     Delete(category=category)
-
-elif args['--Exit'] :
-    Exit()
