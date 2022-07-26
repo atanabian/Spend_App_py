@@ -85,7 +85,3 @@ def Delete(category = None) :
         conn.close()
     
 
-def Exit() : 
-    "Close The script"
-    system('exit')
-
