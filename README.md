@@ -19,3 +19,7 @@ D) Spend_App.py --delete [<category>] --> Delete data base if the category is em
 to run executable file go to "dist" Folder with command line and run the "Spend_App.exe"
   
   
+## Install Packages 
+To install the packages used in this code, enter the directory of this project and enter the following command in the command line:
+
+` pip install -r Packages.txt `
